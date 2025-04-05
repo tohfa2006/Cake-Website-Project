@@ -5,7 +5,7 @@
         "cake_description": "Chocolate cake with vanilla frosting, 8-inch.",
         "order_details": "Chocolate Cake, 8-inch",
         "delivery_date": "2025-04-15",
-        "status": "Pending"
+        "status": "Completed"
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
         "cake_description": "Strawberry Shortcake with fresh berries.",
         "order_details": "Strawberry Shortcake, 9-inch",
         "delivery_date": "2025-04-20",
-        "status": "Pending"
+        "status": "Completed"
     },
     {
         "id": 4,
