@@ -41,7 +41,7 @@ def login():
 @app.route('/status')
 def status_page():
     orders = read_orders()  # Get all orders from orders.json
-    return render_template('status.html', orders=orders)
+    return render_template('adminstatus.html', orders=orders)
 
 # Route to update order status
 @app.route('/update_status/<int:order_id>', methods=['POST'])
