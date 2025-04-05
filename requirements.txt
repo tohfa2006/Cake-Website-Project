@@ -1,0 +1,7 @@
+flask==2.1.0
+supabase
+python-dotenv
+requests
+Flask-Limiter
+validate-email-address
+pyDNS
